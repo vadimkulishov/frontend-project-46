@@ -11,7 +11,7 @@
     "test": "npx jest",
     "lint": "npx eslint ."
   },
-  "author": "ThisisHappy",
+  "author": "vadimkulishov",
   "license": "ISC",
   "dependencies": {
     "@jest/globals": "^29.7.0",
